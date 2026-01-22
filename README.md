@@ -1,101 +1,49 @@
 # Coffee Shop Sales Dashboard (Excel)
 
-A 12-month Excel dashboard built to track coffee shop sales performance using KPIs, trend analysis, and product segmentation.  
-Designed for quick decision-making and clear business insights.
+I built a decision-ready Excel dashboard from **27,000+ sales records** to track performance, uncover revenue drivers, and support smarter business decisions (product strategy, channel growth, and retention).
 
+ **Tools:** Excel · PivotTables · PivotCharts · Data Cleaning · KPI Design · Segmentation
+ 
 ---
+
 ## Dashboard Preview
 
 ![Coffee Shop Sales Dashboard](Coffee-Shop-Dashboard.png)
 
 **[Download the Excel dashboard](https://github.com/SinmiAriyibi/coffee-shop-sales-dashboard-excel/blob/b0f9e41e9469ac60914c29b43626f6ef33cba54b/Sinmi-Coffee-Shop-Sales_2025!.xlsx)**
 
-
 ---
-## Project Snapshot
+---
 
-This dashboard answers key business questions such as:
-
-- How are monthly sales trending across the year?
-- What products drive the most revenue and volume?
-- Which categories and items perform best / worst?
-- What patterns appear across time (seasonality, peak periods)?
-- What KPIs best summarize overall performance?
+## What I Built!
+An Excel dashboard that answers:
+- What’s driving revenue month-to-month?
+- Which products contribute the most to sales?
+- Are repeat customers carrying the business?
+- How strong is mobile/app ordering vs in-store?
 
 ---
 
-
-## Data Preparation
-
-To ensure accuracy and usability, I prepared the dataset by:
-
-- Removing duplicates and correcting formatting inconsistencies
-- Handling missing values and invalid entries
-- Standardizing product/category labels
-- Creating calculated fields for performance KPIs
-- Structuring tables for PivotTables and visual reporting
+## What I Did (The Work Behind the Dashboard)
+- Cleaned and standardized a raw dataset (**27k+ rows**) for analysis readiness  
+- Built PivotTables + PivotCharts to automate KPI reporting  
+- Created calculated metrics (AOV, channel contribution, customer mix)  
+- Designed a clean dashboard layout for quick stakeholder read-through
 
 ---
 
-## KPI Framework
-
-This dashboard focuses on core business KPIs:
-
-- **Total Revenue**
-- **Total Orders**
-- **Total Units Sold**
-- **Average Order Value (AOV)**  
-  *(Revenue ÷ Orders)*
-- **Top-Selling Products**
-- **Category Performance**
-- **Monthly Trend Performance**
+## Insights That Matter
+- **In-store sales dominate (~75%)** → strongest short-term revenue lever
+- **Returning customers drive ~60% of revenue** → retention is the growth engine
+- Best-selling items skew heavily toward **specialty iced drinks** → strong opportunity for seasonal promos + inventory optimization
 
 ---
 
-## Dashboard Design Strategy
-
-The dashboard is organized into a clean reporting layout:
-
-### 1) KPI Header Section  
-A quick snapshot of business performance with primary KPIs at the top.
-
-### 2) Monthly Sales Trend  
-A trend chart to visualize month-over-month performance and seasonality.
-
-### 3) Product & Category Breakdown  
-Charts/tables showing which categories and products generate the most revenue and volume.
-
-### 4) Top / Bottom Performance View  
-Rankings to quickly identify:
-- best-performing products
-- underperforming products
-- potential targets for promotion or optimization
-
-### 5) Filters / Slicers (if applicable)  
-Segmentation options such as:
-- month
-- category
-- product
-
----
-
-## Key Insights (Example Takeaways)
-
-- Sales show seasonality trends across the year.
-- A small number of products drive the majority of revenue (Pareto pattern).
-- Some categories have high volume but lower value contribution.
-- Peak months suggest strong opportunities for promotions and staffing optimization.
-
----
-
-## Skills Demonstrated
-
-- Excel Dashboard Design
-- Data Cleaning & Structuring
-- PivotTables + PivotCharts
-- KPI Development & Reporting
-- Trend Analysis
-- Business Insights & Storytelling
-
+## Why This Matters (The Business Value)
+This dashboard can be used to:
+- Prioritize high-performing products for promotions
+- Improve staffing/inventory planning around peak demand
+- Track customer retention vs acquisition performance
+- Measure and grow the mobile ordering channel
 
 ---
