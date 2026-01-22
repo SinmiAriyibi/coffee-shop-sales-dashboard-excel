@@ -1,4 +1,4 @@
-# Coffee Shop Sales Dashboard (Excel) (2024)
+# Coffee Shop Sales Dashboard (Excel)
 
 A 12-month Excel dashboard built to track coffee shop sales performance using KPIs, trend analysis, and product segmentation.  
 Designed for quick decision-making and clear business insights.
@@ -8,7 +8,7 @@ Designed for quick decision-making and clear business insights.
 
 ![Coffee Shop Sales Dashboard](Coffee-Shop-Dashboard.png)
 
-**Download the Excel dashboard:**  
+**[Download the Excel dashboard:](https://github.com/SinmiAriyibi/coffee-shop-sales-dashboard-excel/blob/b0f9e41e9469ac60914c29b43626f6ef33cba54b/Sinmi-Coffee-Shop-Sales_2025!.xlsx)**
 
 
 ---
