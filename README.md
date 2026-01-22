@@ -4,7 +4,14 @@ A 12-month Excel dashboard built to track coffee shop sales performance using KP
 Designed for quick decision-making and clear business insights.
 
 ---
+## Dashboard Preview
 
+![Coffee Shop Sales Dashboard](Coffee-Shop-Dashboard.png)
+
+**Download the Excel dashboard:**  
+
+
+---
 ## Project Snapshot
 
 This dashboard answers key business questions such as:
@@ -17,13 +24,6 @@ This dashboard answers key business questions such as:
 
 ---
 
-## Dashboard Preview
-
-> Upload a dashboard screenshot into this repo and name it `Coffee_Shop_Dashboard.png`, then it will display here automatically.
-
-![Coffee Shop Sales Dashboard](Coffee_Shop_Dashboard.png)
-
----
 
 ## Data Preparation
 
