@@ -13,7 +13,6 @@ I built a decision-ready Excel dashboard from **27,000+ sales records** to track
 **[Download the Excel dashboard](https://github.com/SinmiAriyibi/coffee-shop-sales-dashboard-excel/blob/b0f9e41e9469ac60914c29b43626f6ef33cba54b/Sinmi-Coffee-Shop-Sales_2025!.xlsx)**
 
 ---
----
 
 ## What I Built!
 An Excel dashboard that answers:
